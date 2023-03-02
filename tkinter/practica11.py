@@ -49,3 +49,5 @@ botonVerde.pack()
 
 #Main de ejecucion de la ventana
 ventana.mainloop()
+
+#Prueba de git terminal
